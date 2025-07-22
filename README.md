@@ -1,7 +1,7 @@
 # bonsai-faq
 I just built and deployed a responsive FAQ page for a fictional bonsai shop using HTML, CSS, JavaScript, and jQuery!
 
- It features an interactive accordion for questions, smooth transitions, and mobile responsiveness.
+It features an interactive accordion for questions, smooth transitions, and mobile responsiveness.
 
 🛠️ Built with:
 - HTML5 & CSS3
